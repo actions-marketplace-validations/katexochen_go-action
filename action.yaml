@@ -1,6 +1,6 @@
-name: Tweeter Action
-author: devigned
-description: Simple action to send a tweet via an GitHub Action.
+name: katexochen-gopherconlab-goaction
+author: katexochen
+description: Learning Go actions @ GopherCon lab of MSFT.
 inputs:
   message:
     description: 'message you want to tweet'
